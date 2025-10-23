@@ -11,13 +11,13 @@ Responsive UI: Built with React and Tailwind CSS for a seamless experience on an
 Secure: Files are processed securely; data is not stored.
 Error Handling: Clear feedback if parsing fails or the file is invalid.
 
-How It Works
+How It Works - 
 Upload PDF: Select or drag and drop your statement.
 Base64 Conversion: File is converted in the browser.
 API Call: The Base64 PDF is sent to Gemini API for structured JSON output.
 Display Results: Parsed data is shown in a clear summary and transaction table.
 
-Tech Stack
+Tech Stack - 
 Frontend: React, TypeScript, Tailwind CSS
 AI Model: Google Gemini (gemini-2.5-flash)
 API Client: @google/genai SDK
