@@ -1,0 +1,5 @@
+{
+  "name": "Credit Card Statement Parser",
+  "description": "An intelligent credit card statement parser powered by Gemini. Upload a PDF of your statement to automatically extract key information like issuer, amount due, due date, and more.",
+  "requestFramePermissions": []
+}
