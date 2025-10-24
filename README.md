@@ -13,8 +13,8 @@ Error Handling: Clear feedback if parsing fails or the file is invalid.
 
 How It Works - 
 Upload PDF: Select or drag and drop your statement.
-Base64 Conversion: File is converted in the browser.
-API Call: The Base64 PDF is sent to Gemini API for structured JSON output.
+Conversion: File is converted in the browser.
+API Call: The PDF is sent to Gemini API for structured JSON output.
 Display Results: Parsed data is shown in a clear summary and transaction table.
 
 Tech Stack - 
